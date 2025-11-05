@@ -1,0 +1,11 @@
+streamlit
+langchain
+transformers
+accelerate
+sentence-transformers   # for embeddings (optional)
+pdfplumber
+pypdf
+fuzzywuzzy
+python-dotenv
+PyPDF2
+weasyprint
